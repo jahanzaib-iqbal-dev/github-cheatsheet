@@ -1,0 +1,92 @@
+name: Daily Tip
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Every day at 9 AM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  add-tip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Add next tip
+        run: |
+          # Read current day
+          DAY=$(cat progress.txt)
+          NEXT=$((DAY + 1))
+
+          # Stop after 365
+          if [ "$NEXT" -gt 365 ]; then
+            echo "All 365 tips published!"
+            exit 0
+          fi
+
+          # Get tip from tips.json
+          TITLE=$(python3 -c "import json; t=json.load(open('tips.json')); tip=[x for x in t if x['day']==$NEXT][0]; print(tip['title'])")
+          COMMAND=$(python3 -c "import json; t=json.load(open('tips.json')); tip=[x for x in t if x['day']==$NEXT][0]; print(tip['command'])")
+          DESC=$(python3 -c "import json; t=json.load(open('tips.json')); tip=[x for x in t if x['day']==$NEXT][0]; print(tip['desc'])")
+          CATEGORY=$(python3 -c "import json; t=json.load(open('tips.json')); tip=[x for x in t if x['day']==$NEXT][0]; print(tip['category'])")
+
+          # Build tip block
+          TIP_BLOCK="### Day $NEXT — $TITLE\n\`$CATEGORY\` · $(date +'%Y-%m-%d')\n\n\`\`\`bash\n$COMMAND\n\`\`\`\n\n> $DESC\n\n---\n"
+
+          # Insert tip into README between markers
+          python3 - <<'PYEOF'
+          import re
+
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          import os, json
+
+          day = int(open('progress.txt').read().strip()) + 1
+          tips = json.load(open('tips.json'))
+          tip = next(t for t in tips if t['day'] == day)
+
+          from datetime import date
+          tip_block = f"""### Day {tip['day']} — {tip['title']}
+`{tip['category']}` · {date.today().isoformat()}
+
+```bash
+{tip['command']}
+```
+
+> {tip['desc']}
+
+---
+"""
+
+          # Insert after TIPS_START marker
+          new_content = content.replace(
+              '<!-- TIPS_START -->\n',
+              f'<!-- TIPS_START -->\n{tip_block}'
+          )
+
+          # Update badge count
+          new_content = re.sub(
+              r'tips-\d+%20%2F%20365',
+              f'tips-{day}%20%2F%20365',
+              new_content
+          )
+
+          with open('README.md', 'w') as f:
+              f.write(new_content)
+          PYEOF
+
+          # Update progress
+          echo "$NEXT" > progress.txt
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          DAY=$(cat progress.txt)
+          git add README.md progress.txt
+          git commit -m "tip: day $DAY — $(python3 -c "import json; t=json.load(open('tips.json')); tip=[x for x in t if x['day']==$DAY][0]; print(tip['title'])")"
+          git push
