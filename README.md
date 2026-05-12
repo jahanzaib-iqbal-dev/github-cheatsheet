@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-2%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-3%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 3 — Set your email
+`Git Basics` · 2026-05-12
+
+```bash
+git config --global user.email "you@example.com"
+```
+
+> Set your email for all commits globally.
+
+---
 ### Day 2 — Set your username
 `Git Basics` · 2026-05-11
 
