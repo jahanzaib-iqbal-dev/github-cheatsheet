@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-5%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-6%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 6 — Check status
+`Git Basics` · 2026-05-15
+
+```bash
+git status
+```
+
+> See which files are staged, unstaged, or untracked.
+
+---
 ### Day 5 — Clone a repo
 `Git Basics` · 2026-05-14
 
