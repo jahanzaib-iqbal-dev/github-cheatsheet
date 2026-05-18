@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-8%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-9%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 9 — Stage one file
+`Git Basics` · 2026-05-18
+
+```bash
+git add filename.js
+```
+
+> Stage a specific file only.
+
+---
 ### Day 8 — Stage all changes
 `Git Basics` · 2026-05-17
 
