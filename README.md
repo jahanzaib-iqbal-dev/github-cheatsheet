@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-9%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-10%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 10 — Commit with message
+`Git Basics` · 2026-05-19
+
+```bash
+git commit -m "feat: add login screen"
+```
+
+> Save staged changes with a descriptive message.
+
+---
 ### Day 9 — Stage one file
 `Git Basics` · 2026-05-18
 
