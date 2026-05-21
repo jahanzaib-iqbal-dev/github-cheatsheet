@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-11%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-12%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 12 — Push to remote
+`Git Basics` · 2026-05-21
+
+```bash
+git push origin main
+```
+
+> Upload your commits to the remote repository.
+
+---
 ### Day 11 — Add and commit together
 `Git Basics` · 2026-05-20
 
