@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-12%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-13%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 13 — Pull latest changes
+`Git Basics` · 2026-05-22
+
+```bash
+git pull
+```
+
+> Fetch and merge changes from the remote branch.
+
+---
 ### Day 12 — Push to remote
 `Git Basics` · 2026-05-21
 
