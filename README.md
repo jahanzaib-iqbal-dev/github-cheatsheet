@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-14%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-15%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 15 — Pretty log with graph
+`Git Basics` · 2026-05-24
+
+```bash
+git log --oneline --graph --all
+```
+
+> Visualize branches and merges in the terminal.
+
+---
 ### Day 14 — View commit history
 `Git Basics` · 2026-05-23
 
