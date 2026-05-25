@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-15%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-16%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 16 — See last 5 commits
+`Git Basics` · 2026-05-25
+
+```bash
+git log --oneline -5
+```
+
+> Limit log output to the last 5 commits.
+
+---
 ### Day 15 — Pretty log with graph
 `Git Basics` · 2026-05-24
 
