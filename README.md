@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-17%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-18%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 18 — See staged changes
+`Git Basics` · 2026-05-29
+
+```bash
+git diff --staged
+```
+
+> Show changes that are staged and ready to commit.
+
+---
 ### Day 17 — See what changed
 `Git Basics` · 2026-05-28
 
