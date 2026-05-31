@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-19%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-20%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 20 — Discard local changes
+`Git Basics` · 2026-05-31
+
+```bash
+git restore filename.js
+```
+
+> Revert a file back to last committed state.
+
+---
 ### Day 19 — Unstage a file
 `Git Basics` · 2026-05-30
 
