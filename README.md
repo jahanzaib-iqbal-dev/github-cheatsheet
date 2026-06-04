@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-23%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-24%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 24 — Modern create and switch
+`Branches` · 2026-06-04
+
+```bash
+git switch -c feature/login
+```
+
+> Newer syntax to create and switch branches.
+
+---
 ### Day 23 — Create and switch
 `Branches` · 2026-06-03
 
