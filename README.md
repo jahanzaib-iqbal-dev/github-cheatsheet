@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-25%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-26%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 26 — Delete local branch
+`Branches` · 2026-06-06
+
+```bash
+git branch -d feature/login
+```
+
+> Delete a branch that has been merged.
+
+---
 ### Day 25 — List all branches
 `Branches` · 2026-06-05
 
