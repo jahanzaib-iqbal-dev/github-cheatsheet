@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-27%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-28%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 28 — Delete remote branch
+`Branches` · 2026-06-08
+
+```bash
+git push origin --delete feature/login
+```
+
+> Remove a branch from the remote repository.
+
+---
 ### Day 27 — Force delete branch
 `Branches` · 2026-06-07
 
