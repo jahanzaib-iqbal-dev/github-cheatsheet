@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-28%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-29%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 29 — Rename current branch
+`Branches` · 2026-06-09
+
+```bash
+git branch -m new-name
+```
+
+> Rename the branch you are currently on.
+
+---
 ### Day 28 — Delete remote branch
 `Branches` · 2026-06-08
 
