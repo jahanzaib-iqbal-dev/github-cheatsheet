@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-31%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-32%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 32 — Merge with no fast-forward
+`Merging` · 2026-06-12
+
+```bash
+git merge --no-ff feature/login
+```
+
+> Always create a merge commit for cleaner history.
+
+---
 ### Day 31 — Merge a branch
 `Merging` · 2026-06-11
 
