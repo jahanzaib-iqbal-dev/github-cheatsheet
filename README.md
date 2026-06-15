@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-34%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-35%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 35 — Mark conflict resolved
+`Merging` · 2026-06-15
+
+```bash
+git add filename.js && git commit
+```
+
+> After fixing conflicts, stage and commit to complete merge.
+
+---
 ### Day 34 — Check merge conflicts
 `Merging` · 2026-06-14
 
