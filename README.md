@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-35%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-36%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 36 — Rebase onto main
+`Rebase` · 2026-06-16
+
+```bash
+git rebase main
+```
+
+> Replay your branch commits on top of main.
+
+---
 ### Day 35 — Mark conflict resolved
 `Merging` · 2026-06-15
 
