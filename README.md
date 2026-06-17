@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-36%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-37%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 37 — Abort a rebase
+`Rebase` · 2026-06-17
+
+```bash
+git rebase --abort
+```
+
+> Cancel a rebase in progress and restore original state.
+
+---
 ### Day 36 — Rebase onto main
 `Rebase` · 2026-06-16
 
