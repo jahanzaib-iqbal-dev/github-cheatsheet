@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-38%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-39%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 39 — Interactive rebase
+`Rebase` · 2026-06-19
+
+```bash
+git rebase -i HEAD~3
+```
+
+> Edit, squash, or reorder the last 3 commits.
+
+---
 ### Day 38 — Continue after conflict
 `Rebase` · 2026-06-18
 
