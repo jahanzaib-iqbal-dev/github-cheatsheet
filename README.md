@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-41%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-42%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 42 — Stash with a name
+`Stash` · 2026-06-22
+
+```bash
+git stash push -m "wip: auth screen"
+```
+
+> Save stash with a descriptive label.
+
+---
 ### Day 41 — Stash your work
 `Stash` · 2026-06-21
 
