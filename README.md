@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-45%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-46%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 46 — Drop a stash
+`Stash` · 2026-06-26
+
+```bash
+git stash drop stash@{0}
+```
+
+> Delete a specific stash entry.
+
+---
 ### Day 45 — Apply without removing
 `Stash` · 2026-06-25
 
