@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-47%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-48%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 48 — Undo last commit (keep changes)
+`Undo` · 2026-06-28
+
+```bash
+git reset --soft HEAD~1
+```
+
+> Uncommit but keep all your changes staged.
+
+---
 ### Day 47 — Clear all stashes
 `Stash` · 2026-06-27
 
