@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-48%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-49%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 49 — Undo last commit (unstage)
+`Undo` · 2026-06-29
+
+```bash
+git reset HEAD~1
+```
+
+> Uncommit and unstage changes but keep files.
+
+---
 ### Day 48 — Undo last commit (keep changes)
 `Undo` · 2026-06-28
 
