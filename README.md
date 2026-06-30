@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-49%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-50%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 50 — Undo and discard changes
+`Undo` · 2026-06-30
+
+```bash
+git reset --hard HEAD~1
+```
+
+> Completely remove last commit and all changes. Dangerous!
+
+---
 ### Day 49 — Undo last commit (unstage)
 `Undo` · 2026-06-29
 
