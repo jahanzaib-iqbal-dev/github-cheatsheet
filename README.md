@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-53%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-54%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 54 — Discard all local changes
+`Undo` · 2026-07-04
+
+```bash
+git checkout .
+```
+
+> Revert all unstaged changes in working directory.
+
+---
 ### Day 53 — Add forgotten file to last commit
 `Undo` · 2026-07-03
 
