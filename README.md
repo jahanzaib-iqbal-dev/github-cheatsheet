@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-54%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-55%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 55 — Remove untracked files
+`Undo` · 2026-07-05
+
+```bash
+git clean -fd
+```
+
+> Delete untracked files and directories.
+
+---
 ### Day 54 — Discard all local changes
 `Undo` · 2026-07-04
 
