@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-55%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-56%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 56 — View remote URLs
+`Remote` · 2026-07-06
+
+```bash
+git remote -v
+```
+
+> See the fetch and push URLs for your remotes.
+
+---
 ### Day 55 — Remove untracked files
 `Undo` · 2026-07-05
 
