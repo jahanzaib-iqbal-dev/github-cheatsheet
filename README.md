@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-57%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-58%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 58 — Change remote URL
+`Remote` · 2026-07-08
+
+```bash
+git remote set-url origin https://github.com/user/new-repo.git
+```
+
+> Update the URL of an existing remote.
+
+---
 ### Day 57 — Add a remote
 `Remote` · 2026-07-07
 
