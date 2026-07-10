@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-59%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-60%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 60 — Pull with rebase
+`Remote` · 2026-07-10
+
+```bash
+git pull --rebase
+```
+
+> Pull and rebase instead of merge for cleaner history.
+
+---
 ### Day 59 — Fetch without merging
 `Remote` · 2026-07-09
 
