@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-60%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-61%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 61 — Create a tag
+`Tags` · 2026-07-11
+
+```bash
+git tag v1.0.0
+```
+
+> Mark a specific commit as a release version.
+
+---
 ### Day 60 — Pull with rebase
 `Remote` · 2026-07-10
 
