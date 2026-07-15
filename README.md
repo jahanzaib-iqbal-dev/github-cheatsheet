@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-64%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-65%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 65 — Delete a tag
+`Tags` · 2026-07-15
+
+```bash
+git tag -d v1.0.0
+```
+
+> Remove a local tag.
+
+---
 ### Day 64 — Push tags to remote
 `Tags` · 2026-07-14
 
