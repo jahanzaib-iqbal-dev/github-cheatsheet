@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-65%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-66%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 66 — Install GitHub CLI
+`GitHub CLI` · 2026-07-16
+
+```bash
+brew install gh
+```
+
+> Install the official GitHub CLI on macOS.
+
+---
 ### Day 65 — Delete a tag
 `Tags` · 2026-07-15
 
