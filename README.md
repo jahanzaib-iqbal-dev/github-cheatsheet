@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-71%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-72%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 72 — View repo in browser
+`GitHub CLI` · 2026-07-22
+
+```bash
+gh repo view --web
+```
+
+> Open current repo in your default browser.
+
+---
 ### Day 71 — List your repos
 `GitHub CLI` · 2026-07-21
 
