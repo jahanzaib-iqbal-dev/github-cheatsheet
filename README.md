@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-73%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-74%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 74 — Create a PR
+`GitHub CLI` · 2026-07-24
+
+```bash
+gh pr create --title "feat: new feature" --fill
+```
+
+> Open a pull request from current branch.
+
+---
 ### Day 73 — Fork a repo
 `GitHub CLI` · 2026-07-23
 
