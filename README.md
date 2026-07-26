@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-75%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-76%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 76 — View a PR
+`GitHub CLI` · 2026-07-26
+
+```bash
+gh pr view 123
+```
+
+> Read the details of a specific pull request.
+
+---
 ### Day 75 — List open PRs
 `GitHub CLI` · 2026-07-25
 
