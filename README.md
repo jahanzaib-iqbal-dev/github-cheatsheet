@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-77%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-78%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 78 — Merge a PR
+`GitHub CLI` · 2026-07-28
+
+```bash
+gh pr merge 123 --squash
+```
+
+> Merge a pull request using squash strategy.
+
+---
 ### Day 77 — Checkout a PR
 `GitHub CLI` · 2026-07-27
 
