@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-79%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-80%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 80 — Create an issue
+`GitHub CLI` · 2026-07-30
+
+```bash
+gh issue create --title "Bug: crash on login"
+```
+
+> Open a new GitHub issue from terminal.
+
+---
 ### Day 79 — Close a PR
 `GitHub CLI` · 2026-07-29
 
