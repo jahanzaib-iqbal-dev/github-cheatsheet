@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-81%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-82%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 82 — View an issue
+`GitHub CLI` · 2026-08-01
+
+```bash
+gh issue view 42
+```
+
+> Read a specific issue by number.
+
+---
 ### Day 81 — List issues
 `GitHub CLI` · 2026-07-31
 
