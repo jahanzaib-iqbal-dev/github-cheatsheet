@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-83%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-84%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 84 — Assign issue to yourself
+`GitHub CLI` · 2026-08-03
+
+```bash
+gh issue edit 42 --assignee @me
+```
+
+> Assign an issue to yourself quickly.
+
+---
 ### Day 83 — Close an issue
 `GitHub CLI` · 2026-08-02
 
