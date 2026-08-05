@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-85%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-86%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 86 — List releases
+`GitHub CLI` · 2026-08-05
+
+```bash
+gh release list
+```
+
+> See all published releases.
+
+---
 ### Day 85 — Create a release
 `GitHub CLI` · 2026-08-04
 
