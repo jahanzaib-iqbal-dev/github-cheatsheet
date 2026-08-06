@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-86%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-87%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 87 — Search repos
+`GitHub CLI` · 2026-08-06
+
+```bash
+gh search repos "react native starter" --sort stars
+```
+
+> Find popular repos matching a topic.
+
+---
 ### Day 86 — List releases
 `GitHub CLI` · 2026-08-05
 
