@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-87%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-88%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 88 — Search code
+`GitHub CLI` · 2026-08-07
+
+```bash
+gh search code "useAuth" --language typescript
+```
+
+> Search for code patterns across GitHub.
+
+---
 ### Day 87 — Search repos
 `GitHub CLI` · 2026-08-06
 
