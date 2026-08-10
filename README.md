@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-90%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-91%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 91 — Trigger workflow manually
+`GitHub Actions` · 2026-08-10
+
+```bash
+gh workflow run daily.yml
+```
+
+> Manually start a workflow from terminal.
+
+---
 ### Day 90 — Watch a workflow run
 `GitHub CLI` · 2026-08-09
 
