@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-95%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-96%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 96 — Run on push to main
+`GitHub Actions` · 2026-08-15
+
+```bash
+on:\n  push:\n    branches: [main]
+```
+
+> Trigger workflow whenever code is pushed to main.
+
+---
 ### Day 95 — Schedule daily action
 `GitHub Actions` · 2026-08-14
 
