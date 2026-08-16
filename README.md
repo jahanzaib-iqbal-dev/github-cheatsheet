@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-96%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-97%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 97 — Use environment secret
+`GitHub Actions` · 2026-08-16
+
+```bash
+secrets.MY_API_KEY
+```
+
+> Access a secret stored in GitHub repo settings.
+
+---
 ### Day 96 — Run on push to main
 `GitHub Actions` · 2026-08-15
 
