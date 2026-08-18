@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-98%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-99%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 99 — Checkout code in action
+`GitHub Actions` · 2026-08-18
+
+```bash
+uses: actions/checkout@v4
+```
+
+> Essential first step — clone your repo inside the runner.
+
+---
 ### Day 98 — Cache dependencies
 `GitHub Actions` · 2026-08-17
 
