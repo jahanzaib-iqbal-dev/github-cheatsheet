@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-99%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-100%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 100 — Setup Node.js in action
+`GitHub Actions` · 2026-08-19
+
+```bash
+uses: actions/setup-node@v4\n  with:\n    node-version: 20
+```
+
+> Install a specific Node.js version in your workflow.
+
+---
 ### Day 99 — Checkout code in action
 `GitHub Actions` · 2026-08-18
 
