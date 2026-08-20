@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-100%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-101%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 101 — Short status alias
+`Aliases` · 2026-08-20
+
+```bash
+git config --global alias.st "status -s"
+```
+
+> Type git st instead of git status -s.
+
+---
 ### Day 100 — Setup Node.js in action
 `GitHub Actions` · 2026-08-19
 
