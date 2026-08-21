@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-101%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-102%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 102 — Checkout alias
+`Aliases` · 2026-08-21
+
+```bash
+git config --global alias.co checkout
+```
+
+> Type git co instead of git checkout.
+
+---
 ### Day 101 — Short status alias
 `Aliases` · 2026-08-20
 
