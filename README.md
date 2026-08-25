@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-105%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-106%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 106 — Save stash alias
+`Aliases` · 2026-08-25
+
+```bash
+git config --global alias.save "stash push -m"
+```
+
+> Type git save 'message' to stash with name.
+
+---
 ### Day 105 — Undo alias
 `Aliases` · 2026-08-24
 
