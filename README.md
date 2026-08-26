@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-106%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-107%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 107 — View all aliases
+`Aliases` · 2026-08-26
+
+```bash
+git config --global --list | grep alias
+```
+
+> See all aliases you have configured.
+
+---
 ### Day 106 — Save stash alias
 `Aliases` · 2026-08-25
 
