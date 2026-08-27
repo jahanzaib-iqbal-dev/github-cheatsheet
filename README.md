@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-107%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-108%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 108 — Cherry pick a commit
+`Advanced Git` · 2026-08-27
+
+```bash
+git cherry-pick abc1234
+```
+
+> Apply a specific commit from another branch to current branch.
+
+---
 ### Day 107 — View all aliases
 `Aliases` · 2026-08-26
 
