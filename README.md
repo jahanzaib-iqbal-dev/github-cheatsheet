@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-108%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-109%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 109 — Bisect to find a bug
+`Advanced Git` · 2026-08-28
+
+```bash
+git bisect start && git bisect bad && git bisect good v1.0
+```
+
+> Binary search through commits to find when a bug was introduced.
+
+---
 ### Day 108 — Cherry pick a commit
 `Advanced Git` · 2026-08-27
 
