@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-111%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-112%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 112 — See who changed a line
+`Advanced Git` · 2026-08-31
+
+```bash
+git blame filename.js
+```
+
+> Show which commit and author last changed each line.
+
+---
 ### Day 111 — Recover lost commit
 `Advanced Git` · 2026-08-30
 
