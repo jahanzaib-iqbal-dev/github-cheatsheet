@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-112%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-113%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 113 — Find which commit broke something
+`Advanced Git` · 2026-09-01
+
+```bash
+git log -S "broken function"
+```
+
+> Search for commits that added or removed a specific string.
+
+---
 ### Day 112 — See who changed a line
 `Advanced Git` · 2026-08-31
 
