@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-113%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-114%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 114 — Partial stage changes
+`Advanced Git` · 2026-09-02
+
+```bash
+git add -p
+```
+
+> Interactively choose which changes to stage, hunk by hunk.
+
+---
 ### Day 113 — Find which commit broke something
 `Advanced Git` · 2026-09-01
 
