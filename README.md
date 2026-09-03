@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-114%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-115%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 115 — Submodule add
+`Advanced Git` · 2026-09-03
+
+```bash
+git submodule add https://github.com/user/repo
+```
+
+> Include another git repo inside your repo.
+
+---
 ### Day 114 — Partial stage changes
 `Advanced Git` · 2026-09-02
 
