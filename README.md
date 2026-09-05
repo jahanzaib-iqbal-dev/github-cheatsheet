@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-116%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-117%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 117 — Worktree — work on two branches
+`Advanced Git` · 2026-09-05
+
+```bash
+git worktree add ../hotfix hotfix/urgent
+```
+
+> Check out a second branch in a separate folder simultaneously.
+
+---
 ### Day 116 — Update submodules
 `Advanced Git` · 2026-09-04
 
