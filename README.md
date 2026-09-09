@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-120%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-121%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 121 — Create .gitignore
+`.gitignore` · 2026-09-09
+
+```bash
+touch .gitignore
+```
+
+> Create the file that tells Git what to ignore.
+
+---
 ### Day 120 — Show files changed in commit
 `Advanced Git` · 2026-09-08
 
