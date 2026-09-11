@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-122%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-123%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 123 — Ignore .env files
+`.gitignore` · 2026-09-11
+
+```bash
+echo '.env' >> .gitignore
+```
+
+> Keep secrets out of your repository.
+
+---
 ### Day 122 — Ignore node_modules
 `.gitignore` · 2026-09-10
 
