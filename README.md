@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-124%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-125%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 125 — Global gitignore
+`.gitignore` · 2026-09-13
+
+```bash
+git config --global core.excludesfile ~/.gitignore_global
+```
+
+> Set a global gitignore that applies to all repos.
+
+---
 ### Day 124 — Untrack already committed file
 `.gitignore` · 2026-09-12
 
