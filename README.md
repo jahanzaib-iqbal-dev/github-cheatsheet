@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-125%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-126%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 126 — Ignore all .log files
+`.gitignore` · 2026-09-14
+
+```bash
+echo '*.log' >> .gitignore
+```
+
+> Wildcard pattern to ignore all files with .log extension.
+
+---
 ### Day 125 — Global gitignore
 `.gitignore` · 2026-09-13
 
