@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-126%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-127%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 127 — Ignore a whole folder
+`.gitignore` · 2026-09-15
+
+```bash
+echo 'build/' >> .gitignore
+```
+
+> Ignore entire build or dist directories.
+
+---
 ### Day 126 — Ignore all .log files
 `.gitignore` · 2026-09-14
 
