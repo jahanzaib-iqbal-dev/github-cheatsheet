@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-127%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-128%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 128 — Generate SSH key
+`SSH` · 2026-09-16
+
+```bash
+ssh-keygen -t ed25519 -C "you@example.com"
+```
+
+> Create a secure SSH key for GitHub authentication.
+
+---
 ### Day 127 — Ignore a whole folder
 `.gitignore` · 2026-09-15
 
