@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-128%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-129%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 129 — Copy SSH key to clipboard
+`SSH` · 2026-09-17
+
+```bash
+pbcopy < ~/.ssh/id_ed25519.pub
+```
+
+> Copy your public key to paste into GitHub settings.
+
+---
 ### Day 128 — Generate SSH key
 `SSH` · 2026-09-16
 
