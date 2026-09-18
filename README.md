@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-129%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-130%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 130 — Test SSH connection
+`SSH` · 2026-09-18
+
+```bash
+ssh -T git@github.com
+```
+
+> Verify your SSH key works with GitHub.
+
+---
 ### Day 129 — Copy SSH key to clipboard
 `SSH` · 2026-09-17
 
