@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-131%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-132%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 132 — List SSH keys in agent
+`SSH` · 2026-09-20
+
+```bash
+ssh-add -l
+```
+
+> See which SSH keys are currently loaded.
+
+---
 ### Day 131 — Use SSH instead of HTTPS
 `SSH` · 2026-09-19
 
