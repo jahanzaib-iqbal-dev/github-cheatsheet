@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-133%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-134%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 134 — See git config
+`Productivity` · 2026-09-22
+
+```bash
+git config --list
+```
+
+> View all your current Git configuration settings.
+
+---
 ### Day 133 — Open repo in VS Code
 `Productivity` · 2026-09-21
 
