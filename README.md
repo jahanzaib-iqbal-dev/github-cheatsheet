@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-135%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-136%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 136 — Set VS Code as git editor
+`Productivity` · 2026-09-24
+
+```bash
+git config --global core.editor "code --wait"
+```
+
+> Use VS Code for commit messages and resolving conflicts.
+
+---
 ### Day 135 — Set default branch to main
 `Productivity` · 2026-09-23
 
