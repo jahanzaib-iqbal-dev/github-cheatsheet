@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-136%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-137%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 137 — Auto setup remote tracking
+`Productivity` · 2026-09-25
+
+```bash
+git config --global push.autoSetupRemote true
+```
+
+> Automatically set upstream on first push of a new branch.
+
+---
 ### Day 136 — Set VS Code as git editor
 `Productivity` · 2026-09-24
 
