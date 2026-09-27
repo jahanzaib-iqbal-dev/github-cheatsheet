@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-138%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-139%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 139 — Show branch in terminal
+`Productivity` · 2026-09-27
+
+```bash
+# Add to ~/.zshrc: parse_git_branch()
+```
+
+> Display current git branch in your terminal prompt.
+
+---
 ### Day 138 — Pull with rebase by default
 `Productivity` · 2026-09-26
 
