@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-141%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-142%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 142 — fix prefix
+`Commit Messages` · 2026-09-30
+
+```bash
+git commit -m "fix: resolve crash on logout"
+```
+
+> Use fix: for bug fixes.
+
+---
 ### Day 141 — feat prefix
 `Commit Messages` · 2026-09-29
 
