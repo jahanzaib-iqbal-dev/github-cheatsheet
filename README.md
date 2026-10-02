@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-143%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-144%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 144 — docs prefix
+`Commit Messages` · 2026-10-02
+
+```bash
+git commit -m "docs: update README installation steps"
+```
+
+> Use docs: for documentation-only changes.
+
+---
 ### Day 143 — chore prefix
 `Commit Messages` · 2026-10-01
 
