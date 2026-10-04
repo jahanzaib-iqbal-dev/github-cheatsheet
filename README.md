@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-145%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-146%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 146 — test prefix
+`Commit Messages` · 2026-10-04
+
+```bash
+git commit -m "test: add unit tests for login service"
+```
+
+> Use test: for adding or updating tests.
+
+---
 ### Day 145 — refactor prefix
 `Commit Messages` · 2026-10-03
 
