@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-147%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-148%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 148 — Keep subject under 72 chars
+`Commit Messages` · 2026-10-06
+
+```bash
+git commit -m "feat: short and clear message here"
+```
+
+> GitHub truncates messages longer than 72 characters.
+
+---
 ### Day 147 — perf prefix
 `Commit Messages` · 2026-10-05
 
