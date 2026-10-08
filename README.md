@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-149%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-150%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 150 — Reference issue in commit
+`Commit Messages` · 2026-10-08
+
+```bash
+git commit -m "fix: crash on startup\n\nCloses #42"
+```
+
+> Linking to an issue will auto-close it when merged to main.
+
+---
 ### Day 149 — Add body to commit
 `Commit Messages` · 2026-10-07
 
