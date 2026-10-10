@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-151%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-152%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 152 — Watch a repo for updates
+`GitHub Features` · 2026-10-10
+
+```bash
+# Go to repo → Watch → All Activity
+```
+
+> Get notifications for issues, PRs, and releases.
+
+---
 ### Day 151 — Star a repo via CLI
 `GitHub Features` · 2026-10-09
 
