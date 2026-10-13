@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-154%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-155%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 155 — GitHub Gists
+`GitHub Features` · 2026-10-13
+
+```bash
+gh gist create filename.js
+```
+
+> Share code snippets publicly or privately via Gists.
+
+---
 ### Day 154 — Pin repos to profile
 `GitHub Features` · 2026-10-12
 
