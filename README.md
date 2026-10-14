@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-155%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-156%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 156 — Enable private contributions
+`GitHub Features` · 2026-10-14
+
+```bash
+# Settings → Profile → Include private contributions
+```
+
+> Show private repo activity on your contribution graph.
+
+---
 ### Day 155 — GitHub Gists
 `GitHub Features` · 2026-10-13
 
