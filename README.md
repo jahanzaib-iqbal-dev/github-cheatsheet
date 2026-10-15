@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-156%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-157%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 157 — GitHub Pages
+`GitHub Features` · 2026-10-15
+
+```bash
+# Repo → Settings → Pages → Deploy from branch
+```
+
+> Host a static website directly from a GitHub repository for free.
+
+---
 ### Day 156 — Enable private contributions
 `GitHub Features` · 2026-10-14
 
