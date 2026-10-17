@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-158%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-159%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 159 — Add topics to repo
+`GitHub Features` · 2026-10-17
+
+```bash
+# Repo → About → Topics
+```
+
+> Add searchable topics like react-native, nodejs to your repo.
+
+---
 ### Day 158 — Protect main branch
 `GitHub Features` · 2026-10-16
 
