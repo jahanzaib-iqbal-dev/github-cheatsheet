@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-162%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-163%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 163 — Rotate exposed secret
+`Security` · 2026-10-21
+
+```bash
+# Invalidate old key → Generate new → Update env
+```
+
+> If a secret is committed by mistake, rotate it immediately.
+
+---
 ### Day 162 — Scan for secrets in history
 `Security` · 2026-10-20
 
