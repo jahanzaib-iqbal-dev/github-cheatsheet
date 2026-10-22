@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-163%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-164%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 164 — Sign commits with GPG
+`Security` · 2026-10-22
+
+```bash
+git config --global commit.gpgsign true
+```
+
+> Add a verified badge to your commits with GPG signing.
+
+---
 ### Day 163 — Rotate exposed secret
 `Security` · 2026-10-21
 
