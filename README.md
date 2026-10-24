@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-165%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-166%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 166 — Add node_modules to gitignore
+`Node.js + Git` · 2026-10-24
+
+```bash
+echo 'node_modules/' >> .gitignore
+```
+
+> Never commit node_modules — install from package.json instead.
+
+---
 ### Day 165 — Enable 2FA on GitHub
 `Security` · 2026-10-23
 
