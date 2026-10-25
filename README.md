@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-166%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-167%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 167 — Commit package-lock.json
+`Node.js + Git` · 2026-10-25
+
+```bash
+git add package-lock.json
+```
+
+> Always commit the lock file to ensure consistent installs.
+
+---
 ### Day 166 — Add node_modules to gitignore
 `Node.js + Git` · 2026-10-24
 
