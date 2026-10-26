@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-167%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-168%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 168 — Use .nvmrc for Node version
+`Node.js + Git` · 2026-10-26
+
+```bash
+echo '20' > .nvmrc && git add .nvmrc
+```
+
+> Commit .nvmrc so everyone uses the same Node version.
+
+---
 ### Day 167 — Commit package-lock.json
 `Node.js + Git` · 2026-10-25
 
