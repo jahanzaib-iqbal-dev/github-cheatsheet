@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-169%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-170%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 170 — Lint staged files only
+`Node.js + Git` · 2026-10-28
+
+```bash
+npx lint-staged
+```
+
+> Only lint files that are staged, not the whole project.
+
+---
 ### Day 169 — Git hook with husky
 `Node.js + Git` · 2026-10-27
 
