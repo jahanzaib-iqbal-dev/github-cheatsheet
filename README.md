@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-170%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-171%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 171 — Ignore iOS build artifacts
+`React Native + Git` · 2026-10-29
+
+```bash
+echo 'ios/build/' >> .gitignore
+```
+
+> Keep iOS build output out of your repository.
+
+---
 ### Day 170 — Lint staged files only
 `Node.js + Git` · 2026-10-28
 
