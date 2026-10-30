@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-171%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-172%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 172 — Ignore Android build artifacts
+`React Native + Git` · 2026-10-30
+
+```bash
+echo 'android/build/' >> .gitignore
+```
+
+> Keep Android build output out of your repository.
+
+---
 ### Day 171 — Ignore iOS build artifacts
 `React Native + Git` · 2026-10-29
 
