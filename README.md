@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-172%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-173%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 173 — Ignore Expo .expo folder
+`React Native + Git` · 2026-10-31
+
+```bash
+echo '.expo/' >> .gitignore
+```
+
+> The .expo folder contains local dev config, not needed in git.
+
+---
 ### Day 172 — Ignore Android build artifacts
 `React Native + Git` · 2026-10-30
 
