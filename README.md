@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-173%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-174%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 174 — Tag app releases
+`React Native + Git` · 2026-11-01
+
+```bash
+git tag -a v1.0.0 -m "App Store release v1.0.0"
+```
+
+> Tag every app store submission for easy rollback reference.
+
+---
 ### Day 173 — Ignore Expo .expo folder
 `React Native + Git` · 2026-10-31
 
