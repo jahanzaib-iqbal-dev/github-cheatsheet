@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-174%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-175%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 175 — Branch per platform fix
+`React Native + Git` · 2026-11-02
+
+```bash
+git checkout -b fix/ios-keyboard-overlap
+```
+
+> Use platform-specific branch names when fixing platform bugs.
+
+---
 ### Day 174 — Tag app releases
 `React Native + Git` · 2026-11-01
 
