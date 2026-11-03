@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-175%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-176%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 176 — Find large files in repo
+`Tips & Tricks` · 2026-11-03
+
+```bash
+git rev-list --objects --all | sort -k 2 > allfileshas.txt
+```
+
+> Identify large files that are bloating your repository.
+
+---
 ### Day 175 — Branch per platform fix
 `React Native + Git` · 2026-11-02
 
