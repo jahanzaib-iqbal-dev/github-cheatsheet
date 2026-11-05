@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-177%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-178%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 178 — Clone specific branch
+`Tips & Tricks` · 2026-11-05
+
+```bash
+git clone -b develop https://github.com/user/repo.git
+```
+
+> Clone and checkout a specific branch directly.
+
+---
 ### Day 177 — Clone only latest snapshot
 `Tips & Tricks` · 2026-11-04
 
