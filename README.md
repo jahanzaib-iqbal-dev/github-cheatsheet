@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-181%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-182%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 182 — List files in a commit
+`Tips & Tricks` · 2026-11-09
+
+```bash
+git diff-tree --no-commit-id -r --name-only abc1234
+```
+
+> See exactly which files a specific commit changed.
+
+---
 ### Day 181 — Compare two branches
 `Tips & Tricks` · 2026-11-08
 
