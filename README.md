@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-182%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-183%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 183 — Auto correct typos
+`Tips & Tricks` · 2026-11-10
+
+```bash
+git config --global help.autocorrect 1
+```
+
+> Git will auto-correct mistyped commands after 0.1 seconds.
+
+---
 ### Day 182 — List files in a commit
 `Tips & Tricks` · 2026-11-09
 
