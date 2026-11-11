@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-183%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-184%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 184 — Use git notes
+`Tips & Tricks` · 2026-11-11
+
+```bash
+git notes add -m "Reviewed by team" abc1234
+```
+
+> Attach notes to commits without changing history.
+
+---
 ### Day 183 — Auto correct typos
 `Tips & Tricks` · 2026-11-10
 
