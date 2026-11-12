@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-184%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-185%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 185 — Colorize git output
+`Tips & Tricks` · 2026-11-12
+
+```bash
+git config --global color.ui auto
+```
+
+> Enable colored output for easier reading in terminal.
+
+---
 ### Day 184 — Use git notes
 `Tips & Tricks` · 2026-11-11
 
