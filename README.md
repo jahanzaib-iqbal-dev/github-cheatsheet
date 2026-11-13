@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-185%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-186%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 186 — Set default repo
+`GitHub CLI` · 2026-11-13
+
+```bash
+gh repo set-default owner/repo
+```
+
+> Set which repo gh commands target by default.
+
+---
 ### Day 185 — Colorize git output
 `Tips & Tricks` · 2026-11-12
 
