@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-186%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-187%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 187 — View PR diff
+`GitHub CLI` · 2026-11-14
+
+```bash
+gh pr diff 123
+```
+
+> See the code changes in a PR directly in terminal.
+
+---
 ### Day 186 — Set default repo
 `GitHub CLI` · 2026-11-13
 
