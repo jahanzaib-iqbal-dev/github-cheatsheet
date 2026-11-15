@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-187%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-188%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 188 — Add label to issue
+`GitHub CLI` · 2026-11-15
+
+```bash
+gh issue edit 42 --add-label "bug"
+```
+
+> Label issues directly from terminal.
+
+---
 ### Day 187 — View PR diff
 `GitHub CLI` · 2026-11-14
 
