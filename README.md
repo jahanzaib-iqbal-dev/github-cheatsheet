@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-196%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-197%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 197 — Git grep — search in code
+`Advanced Git` · 2026-11-24
+
+```bash
+git grep "useState" -- '*.tsx'
+```
+
+> Search for a string across all tracked files.
+
+---
 ### Day 196 — Patch file from another branch
 `Advanced Git` · 2026-11-23
 
