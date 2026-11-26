@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-198%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-199%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 199 — See size of repo
+`Advanced Git` · 2026-11-26
+
+```bash
+git count-objects -vH
+```
+
+> Check how much disk space your repo takes.
+
+---
 ### Day 198 — List all tracked files
 `Advanced Git` · 2026-11-25
 
