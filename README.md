@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-199%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-200%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 200 — Day 200 — Keep Going!
+`Advanced Git` · 2026-11-27
+
+```bash
+git log --oneline | wc -l
+```
+
+> You are 200 days in. Count your commits and celebrate progress!
+
+---
 ### Day 199 — See size of repo
 `Advanced Git` · 2026-11-26
 
