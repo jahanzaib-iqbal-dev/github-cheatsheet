@@ -3,11 +3,21 @@
 > A new Git/GitHub tip added every day for 365 days.
 > Practical commands for React Native, Node.js, and web developers.
 
-![Days](https://img.shields.io/badge/tips-200%20%2F%20365-blue)
+![Days](https://img.shields.io/badge/tips-201%20%2F%20365-blue)
 
 ## Tips So Far
 
 <!-- TIPS_START -->
+### Day 201 — Rebase onto another branch
+`Advanced Git` · 2026-11-28
+
+```bash
+git rebase --onto main feature/old feature/new
+```
+
+> Move a range of commits from one base to another.
+
+---
 ### Day 200 — Day 200 — Keep Going!
 `Advanced Git` · 2026-11-27
 
